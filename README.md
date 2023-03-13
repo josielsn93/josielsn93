@@ -12,7 +12,7 @@
 
 
 
-[![josielsn93 GitHub stats](https://github-readme-stats.vercel.app/api?username=josielsn93&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![josielsn93 GitHub stats](https://github-readme-stats.vercel.app/api?username=josielsn93&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josielsn93)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" alt="Josiel-pic" height="150" style="border-radius:50px;" src="https://github.com/Shift-ky/curso-em-video-html-css/blob/main/_imagens/gifs-do-cubo-magico-0-unscreen.gif">
