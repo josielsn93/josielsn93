@@ -4,7 +4,7 @@
 ### Olá! 👋
 ### Eu sou o Josiel 🖐️💻
 #### 🎓 Profissional de Front-end desde 2017.
-#### 📚 Estudante de Análise e desenvolvimento de sistemas pelo SENAI.
+#### 📚 Estudante de Designer UX UI pela EBAC.
 
         
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiel-nascimento-a6706a68)
