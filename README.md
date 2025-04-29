@@ -3,8 +3,8 @@
 
 ### Olá! 👋
 ### Eu sou o Josiel 🖐️💻
-#### 🎓 Profissional de Front-end desde 2017.
-#### 📚 Estudante de Designer UX UI pela EBAC.
+#### 🎓 Web developer since 2017.
+#### 📚 Designer UX UI from School EBAC.
 
         
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiel-nascimento-a6706a68)
@@ -17,7 +17,7 @@
 
 <img align="right" alt="Josiel-pic" height="150" style="border-radius:50px;" src="https://github.com/Shift-ky/curso-em-video-html-css/blob/main/_imagens/gifs-do-cubo-magico-0-unscreen.gif">
 
-## Tecnologias que uso
+## Hard skills
 
 
 <div style="display: inline_block"><br/>
