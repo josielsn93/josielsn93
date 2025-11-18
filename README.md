@@ -3,22 +3,25 @@
 
 ### Olá! 👋
 ### Eu sou o Josiel 🖐️💻
-#### 🎓 Web developer since 2017.
-#### 📚 Designer UX UI from School EBAC.
-
+#### 🎓 Web developer since 2017
         
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiel-nascimento-a6706a68)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram/josielsn93)
 
-
-
 <!-- [![josielsn93 GitHub stats](https://github-readme-stats.vercel.app/api?username=josielsn93&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josielsn93)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josielsn93)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- <img align="right" alt="Josiel-pic" height="150" style="border-radius:50px;" src="https://github.com/Shift-ky/curso-em-video-html-css/blob/main/_imagens/gifs-do-cubo-magico-0-unscreen.gif"> -->
 
-<img align="right" alt="Josiel-pic" height="150" style="border-radius:50px;" src="https://github.com/Shift-ky/curso-em-video-html-css/blob/main/_imagens/gifs-do-cubo-magico-0-unscreen.gif">
+<!-- Dev Stats -->
+<div align="left">  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josielsn93&show_icons=true&count_private=true&hide_border=true&title_color=bf00bf&icon_color=bf00bf&text_color=c9d1d9&bg_color=0d1117" alt="Josiel Silvério - status de atividade no github" /> 
+</div>
+<div align="left">  
+        <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielsn93&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 
 ## Hard skills
-
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" 
